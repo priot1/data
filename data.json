@@ -1,20 +1,17 @@
- [
-  {
-    "id": 1,
-   "link" : 'img/gidrotsikl-brp-seadoo-gti-130hp-se-blackmango-orange-73936232995706_small6 1.png',
-   "colorAmount": '4',
-    "title" : 'Гидроцикл BRP SeaDoo GTI 130hp SE Black\\Mango',
-    "price" : '1 049 500',
-    "brand" : 'Sea-Doo',
-     "category" : 'Гидроциклы',
-  },
-  {
-    "id": 2,
-   "link":  'img/gidrotsikl-brp-seadoo-gti-130hp-se-blackmango-orange-73936232995706_small6 2.png',
-    "colorAmount" : '3',
-    "title": 'Гидроцикл BRP SeaDoo GTI 155hp SE Long Blue Metallic',
-    "price": '1100475',
-    "brand": 'Sea-Doo',
-    "category": 'Гидроциклы',
-  }
- ]
+ [{
+		"id": 1,
+		"colorAmount": 4,
+		"title": "Гидроцикл BRP SeaDoo GTI 130hp SE Black\\Mango",
+		"price": "1 049 500",
+		"brand": "Sea-Doo",
+		"category": "Гидроциклы"
+	},
+	{
+		"id": 2,
+		"colorAmount": 3,
+		"title": "Гидроцикл BRP SeaDoo GTI 155hp SE Long Blue Metallic",
+		"price": "1100475",
+		"brand": "Sea-Doo",
+		"category": "Гидроциклы"
+	}
+]
