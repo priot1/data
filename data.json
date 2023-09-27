@@ -1,4 +1,4 @@
-const goodsList =`[{
+`[{
 "id" : 1,
 "link" : "img/smart1.jpg",
 "title" : "6.6 Смартфон Infinix Smart 6 HD 32 ГБ голубой ядер - 4x(2 ГГц), 2 Гб, 2 SIM, IPS, 1600x720, камера 8+0.08 Мп, 4G, GPS, FM, 5000 мА*ч",
@@ -271,4 +271,4 @@ const goodsList =`[{
 "categories" : "televizor",
 "price" : "12999 ₽"
 }
-]`;
+]`
